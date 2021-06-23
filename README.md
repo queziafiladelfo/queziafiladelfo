@@ -1,7 +1,7 @@
 #
-### Olá 👋👋 meu nome é Quézia  e no momento estou cursando Sistemas de Informação no IFBA de Vitória da Conquista - Bahia. 
+#### Olá 👋👋 meu nome é Quézia  e no momento estou cursando Sistemas de Informação no IFBA de Vitória da Conquista - Bahia. 
 
-### Atualmente me encontro interessada em vagas de estágio para aplicar conhecimentos e obter experiência.
+#### Atualmente me encontro interessada em vagas de estágio para aplicar conhecimentos e obter experiência.
 #
 
 <!--
