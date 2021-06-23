@@ -1,4 +1,8 @@
-### Hi there 👋
+#
+### Olá 👋👋 meu nome é Quézia  e no momento estou cursando Sistemas de Informação no IFBA de Vitória da Conquista - Bahia. 
+
+### Atualmente me encontro interessada em vagas de estágio para aplicar conhecimentos e obter experiência.
+#
 
 <!--
 **queziafiladelfo/queziafiladelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
