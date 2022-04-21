@@ -8,8 +8,11 @@
 [![](https://img.shields.io/badge/site-4A0073)]()
 [![](https://img.shields.io/badge/resume-514C54)]()
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/quézia-filadelfo-0bb0a9104/)
+      
+<!--      
 [![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/qzmfsppr/)
 [![](https://img.shields.io/badge/twitter-054f77)](https://twitter.com/jovemsofrencia)
+-->
     </div>
     <div>
       <img align="right" width="120" height="120" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif">
