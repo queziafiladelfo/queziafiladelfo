@@ -12,7 +12,6 @@
 
   📚 Hello, my name is Quezia, and I am a bachelor's student in Information Systems at [IFBA](https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/sistemas-de-informacao). I aspire to become a full-stack software developer, and to achieve this, I am currently seeking internships or opportunities to apply my knowledge and gain experience. In addition to programming, I have a strong interest in drawing, high fantasy books, and learning to play musical instruments.
 
-
 </div>
     
 ### 🧰 Languages and Tools
@@ -33,31 +32,13 @@
 <br/>
 
 <details>
-  <summary> Principais Projetos</summary>
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
-    <a href="https://github.com/queziafiladelfo/burguer-express" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-        <h3>Burguer Express</h3>
-        <p>Aplicação para pedidos de hambúrgueres.</p>
-      </div>
-    </a>
-    <a href="https://github.com/queziafiladelfo/rocketEvents-frontend" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-        <h3>Rocket Events</h3>
-        <p>Aplicação para gerenciamento eventos.</p>
-      </div>
-    </a>
-    <a href="https://github.com/queziafiladelfo/orange-portfolio-squad20" style="text-decoration: none;">
-      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-        <h3>Orange Portfolio</h3>
-        <p>Aplicação que permite o cadastro e gerenciar projetos dos usuários.</p>
-      </div>
-    </a>
-  </div>
+  <summary>Principais Projetos</summary>
+
+  - [Burguer Express](https://github.com/queziafiladelfo/burguer-express)
+  - [Rocket Events](https://github.com/queziafiladelfo/rocketEvents-frontend)
+  - [Orange Portfolio](https://github.com/queziafiladelfo/orange-portfolio-squad20)
+
 </details>
-
-
-<br>
 
 #
 
