@@ -5,7 +5,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B77FB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queziafiladelfo/)
   [![Gmail](https://img.shields.io/badge/Gmail-7B77FB?style=flat-square&logo=gmail&logoColor=white)](mailto:queziafiladelfo@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-7B77FB?style=flat-square)]()
+  [![Resume](https://img.shields.io/badge/Resume-7B77FB?style=flat-square)]("../resume/Resume_quezia(2024)_pt.pdf")
  
 </div>
 <div>
