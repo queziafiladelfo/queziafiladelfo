@@ -33,9 +33,29 @@
 <br/>
 
 <details>
-  <summary>Projetos</summary>
-    <p>Em contrução...</p>
+  <summary> Principais Projetos</summary>
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
+    <a href="https://github.com/queziafiladelfo/burguer-express" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+        <h3>Burguer Express</h3>
+        <p>Aplicação para pedidos de hambúrgueres.</p>
+      </div>
+    </a>
+    <a href="https://github.com/queziafiladelfo/rocketEvents-frontend" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+        <h3>Rocket Events</h3>
+        <p>Aplicação para gerenciamento eventos.</p>
+      </div>
+    </a>
+    <a href="https://github.com/queziafiladelfo/orange-portfolio-squad20" style="text-decoration: none;">
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+        <h3>Orange Portfolio</h3>
+        <p>Aplicação que permite o cadastro e gerenciar projetos dos usuários.</p>
+      </div>
+    </a>
+  </div>
 </details>
+
 
 <br>
 
