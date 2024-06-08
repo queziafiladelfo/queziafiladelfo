@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there, I am <strong>Quézia Filadelfo</strong> 🖖</h1>
+### Hi there 👋, I am [Quezia Filadelfo](https://queziafiladelfo.github.io/) ! 😁
 
 <div> 
   
@@ -9,7 +9,10 @@
  
 </div>
 <div>
-  📚 Graduanda em Sistemas de Informação, atualmente me encontro a procura de vagas de estágio ou oportunidades para aplicar conhecimentos e obter experiência.
+
+  📚 Hello, my name is Quezia, and I am a bachelor's student in Information Systems at [IFBA](https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/sistemas-de-informacao). I aspire to become a full-stack software developer, and to achieve this, I am currently seeking internships or opportunities to apply my knowledge and gain experience. In addition to programming, I have a strong interest in drawing, high fantasy books, and learning to play musical instruments.
+
+
 </div>
     
 ### 🧰 Languages and Tools
@@ -39,21 +42,12 @@
 #
 
 ### 📊 Stats
-<div  style="display:flex; justify-content: space-between; align-items: center;">
 
- <div> 
-   
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=queziafiladelfo&show_icons=true&theme=dracula)  
-   
- </div>
- 
- <div> 
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queziafiladelfo&layout=compact&theme=dracula)](https://github.com/queziafiladelfo) 
- 
- </div>
-
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=queziafiladelfo&count_private=true&show_icons=true&theme=dracula" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queziafiladelfo&layout=compact&theme=dracula" />
 </div>
+
     
 <!--
 **queziafiladelfo/queziafiladelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
