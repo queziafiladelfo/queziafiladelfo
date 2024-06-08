@@ -32,7 +32,7 @@
 <br/>
 
 <details>
-  <summary>Principais Projetos</summary>
+  <summary>Projects</summary>
 
   - [Burguer Express](https://github.com/queziafiladelfo/burguer-express)
   - [Rocket Events](https://github.com/queziafiladelfo/rocketEvents-frontend)
